@@ -1,0 +1,1 @@
+0�%$thing/down/property/MRJO085OTL/RGB_1{"method":"control","clientToken":"v2530388503TWkYn::8e7904fc-7c30-4193-843d-c3566914e19c","params":{"power_switch":0,"brightness":3,"rgb_color":{"green":3,"blue":2,"red":2}}}
