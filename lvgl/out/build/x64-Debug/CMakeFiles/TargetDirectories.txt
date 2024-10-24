@@ -1,0 +1,8 @@
+C:/Users/13504/Desktop/GZ2355003-薛海鹏-网络编程项目/lv_port_linux_frame_buffer-master/lvgl/out/build/x64-Debug/CMakeFiles/lvgl.dir
+C:/Users/13504/Desktop/GZ2355003-薛海鹏-网络编程项目/lv_port_linux_frame_buffer-master/lvgl/out/build/x64-Debug/CMakeFiles/lvgl_examples.dir
+C:/Users/13504/Desktop/GZ2355003-薛海鹏-网络编程项目/lv_port_linux_frame_buffer-master/lvgl/out/build/x64-Debug/CMakeFiles/lvgl_demos.dir
+C:/Users/13504/Desktop/GZ2355003-薛海鹏-网络编程项目/lv_port_linux_frame_buffer-master/lvgl/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/13504/Desktop/GZ2355003-薛海鹏-网络编程项目/lv_port_linux_frame_buffer-master/lvgl/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/13504/Desktop/GZ2355003-薛海鹏-网络编程项目/lv_port_linux_frame_buffer-master/lvgl/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/13504/Desktop/GZ2355003-薛海鹏-网络编程项目/lv_port_linux_frame_buffer-master/lvgl/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/13504/Desktop/GZ2355003-薛海鹏-网络编程项目/lv_port_linux_frame_buffer-master/lvgl/out/build/x64-Debug/CMakeFiles/install/local.dir
